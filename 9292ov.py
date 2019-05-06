@@ -21,7 +21,7 @@ from requests import get as request
 from dateutil.parser import parse as parse_datetime
 from datetime import datetime
 
-# todo: add line direction
+# @todo: Add line direction
 data = {
     "Station Nijmegen": {
         "StopAreaCode": "NmCS",
